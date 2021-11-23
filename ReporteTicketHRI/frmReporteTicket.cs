@@ -23,6 +23,7 @@ namespace ReporteTicketHRI
             frmrpt.NroSerie = txtNroSerie.Text.Trim();
             frmrpt.NroDocumento = txtNroDocumento.Text.Trim();
             frmrpt.Show();
+            ///comen
         }
     }
 }
